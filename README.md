@@ -1,6 +1,6 @@
 # cd_pro
 
-A new Flutter project.
+A CI / CD testing app with flutter ![Dart](https://github.com/leoshak/cd_pro/workflows/Dart/badge.svg)
 
 ## Getting Started
 

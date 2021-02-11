@@ -1,4 +1,4 @@
-package com.blasanka.cd_pro
+package com.blasanka.flutterDev
 
 import io.flutter.embedding.android.FlutterActivity
 

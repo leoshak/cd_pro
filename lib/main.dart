@@ -20,6 +20,5 @@ Client getClient(String client) {
 
 void main() {
   const client = String.fromEnvironment("client", defaultValue: "bbet");
-
   runApp(MyApp(client: getClient(client)));
 }

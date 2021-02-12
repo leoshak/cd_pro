@@ -50,6 +50,8 @@ class HomeScreen extends StatelessWidget {
                   SizedBox(height: 6),
                   Text("08 Feb 2021", style: Theme.of(context).textTheme.subtitle1,),
                   SizedBox(height: 6),
+                  Text("08 Feb 2021", style: Theme.of(context).textTheme.subtitle1,),
+                  SizedBox(height: 6),
                 ],
               ),
             ),
